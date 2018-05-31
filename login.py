@@ -5,3 +5,5 @@ d = 4
 
 c = 3
 d = 5
+
+info = 'itcast'
